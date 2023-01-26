@@ -40,31 +40,31 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![out](Screenshot(20).png)
+![out](w1.png)
 
 ### PRODUCTS:
 
-![out](Screenshot(21).png)
+![out](w2.png)
 
-![out](Screenshot(22).png)
+![out](w3.png)
 
 ### PEOPLES:
 
-![out](Screenshot(23).png)
+![out](w4.png)
 
-![out](Screenshot(24).png)
+![out](w5.png)
 
-![out](Screenshot(25).png)
+![out](w6.png)
 
-![out](Screenshot(26).png)
+![out](w7.png)
 
 ### CONTACT:
 
-![out](Screenshot(27).png)
+![out](w8.png)
 
 ### HTML VALIDATOR
 
-![out](Screenshot(28).png)
+![out](w9.png)
 
 ## Result:
 
