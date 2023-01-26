@@ -40,7 +40,31 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![out](screenshot(20).png)
+
+### PRODUCTS:
+
+![out](screenshot(21).png)
+
+![out](screenshot(22).png)
+
+### PEOPLES:
+
+![out](screenshot(23).png)
+
+![out](screenshot(24).png)
+
+![out](screenshot(25).png)
+
+![out](screenshot(26).png)
+
+### CONTACT:
+
+![out](screenshot(27).png)
+
+### HTML VALIDATOR
+
+![out](screenshot(28).png)
 
 ## Result:
 
